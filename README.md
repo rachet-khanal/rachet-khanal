@@ -13,7 +13,7 @@ A passionate ✊ full-stack developer 🌐 who is always keen to learn and imple
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> MYSQL, Firebase, Typescript, Javascript, etc.
 - 🚀 &nbsp; I’m currently into Full Stack Development.
 - 📫 &nbsp; How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rachet-khanal) [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/rachetkhanal)
-- 📝 &nbsp; Checkout my [Resume](https://github.com/rachet-khanal/rachet-khanal/blob/main/rachet_khanal_resume_2.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/rachet-khanal/rachet-khanal/blob/main/rachet_khanal_resume.pdf).
 
 ### Languages and Tools:
 
