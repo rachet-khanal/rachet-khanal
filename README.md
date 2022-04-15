@@ -64,4 +64,4 @@ A passionate ✊ full-stack developer 🌐 who is always keen to learn and imple
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="react"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
 - Fullstack developer, involved in development of Flutter mobile application and integration/development of NodeJS API.
-- Use of Firebase and PostgresSQL combination for database and push notification system.
+- Use of Firebase and PostgresSQL combination for database and realtime push notification system.
