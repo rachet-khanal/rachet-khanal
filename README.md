@@ -46,6 +46,7 @@ A passionate ✊ full-stack developer 🌐 who is always keen to learn and imple
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="laravel"></code>
+- Government project of Nepal used by each and every schools.
 - React Lead developer, work closely with product owners and managers to assign and deliver project requirements.
 - Involve in data architecture with backend developers for improved perfomance of large data queries.
 
