@@ -49,6 +49,7 @@ A passionate ✊ full-stack developer 🌐 who is always keen to learn and imple
 - Government project of Nepal used by each and every schools.
 - React Lead developer, work closely with product owners and managers to assign and deliver project requirements.
 - Involve in data architecture with backend developers for improved perfomance of large data queries.
+- Parts of the website functionality tutorial can be found on [![Youtube Badge](https://img.shields.io/badge/YouTube-000000?style=flat-square&logo=YouTube&logoColor=red)](https://www.youtube.com/watch?v=wqH_CfrjF4o/). (Note: this video link is not mine.) 
 
 #### Rachet Portfolio [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://rachet.tech/)
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
