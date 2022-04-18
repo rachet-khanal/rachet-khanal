@@ -51,6 +51,7 @@ A passionate ✊ full-stack developer 🌐 who is always keen to learn and imple
 - Developed multi level authentication with access to different levels of functionality and services.
 - Generate ID and marksheets from dynamically placed fields with their relative data.
 - Involve in data architecture with backend developers for improved perfomance of large data queries.
+- Generate charts and highly sophisticated report tables from diverse group of filters and data.
 - Parts of the website functionality tutorial can be found on [![Youtube Badge](https://img.shields.io/badge/YouTube-000000?style=flat-square&logo=YouTube&logoColor=red)](https://www.youtube.com/watch?v=wqH_CfrjF4o/). (Note: this video link is not mine.) 
 
 #### Rachet Portfolio [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://rachet.tech/)
