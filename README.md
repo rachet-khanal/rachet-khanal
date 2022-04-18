@@ -46,8 +46,10 @@ A passionate ✊ full-stack developer 🌐 who is always keen to learn and imple
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="laravel"></code>
-- Government project of Nepal used by each and every schools.
+- Government project of Nepal used by each and every schools, and government level.
 - React Lead developer, work closely with product owners and managers to assign and deliver project requirements.
+- Developed multi level authentication with access to different levels of functionality and services.
+- Generate ID and marksheets from dynamically placed fields with their relative data.
 - Involve in data architecture with backend developers for improved perfomance of large data queries.
 - Parts of the website functionality tutorial can be found on [![Youtube Badge](https://img.shields.io/badge/YouTube-000000?style=flat-square&logo=YouTube&logoColor=red)](https://www.youtube.com/watch?v=wqH_CfrjF4o/). (Note: this video link is not mine.) 
 
@@ -65,6 +67,7 @@ A passionate ✊ full-stack developer 🌐 who is always keen to learn and imple
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
 - Fullstack developer, involved in development of Flutter mobile application and integration/development of NodeJS API.
+- Phone number based authentication.
 - Use of Firebase and PostgresSQL combination for database and realtime push notification system.
 
 #### Recruitment Platform Application
@@ -74,6 +77,7 @@ A passionate ✊ full-stack developer 🌐 who is always keen to learn and imple
 </code>
 - An ongoing platform development with critical and live user data.
 - Involved in development of React application and NodeJS API for feature additions and enhancements.
+- Written test codes using Jest and react testing library.
 
 #### College Result Publication Application
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
@@ -81,4 +85,5 @@ A passionate ✊ full-stack developer 🌐 who is always keen to learn and imple
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" alt="electron"></code>
 - College result publication system, includes development of admin desktop application and result publication website.
-- Use of PostGresSQL and SSH tunnel for secure result publication from local to online server.
+- Use of PostGresSQL and SSH tunnel for secure result publication from local to online server.'
+- Generate and publish marksheets from React to PDF.
